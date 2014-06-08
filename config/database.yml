@@ -35,21 +35,21 @@ development:
   encoding: unicode
   database: rr4_development
   pool: 5
-  username: rr4
-  password: password1
+#  username: rr4
+#  password: password1
 
 test:
   adapter: postgresql
   encoding: unicode
   database: rr4_test
   pool: 5
-  username: rr4
-  password: password1
+#  username: rr4
+#  password: password1
 
 production:
   adapter: postgresql
   encoding: unicode
   database: rr4_prod
   pool: 5
-  username: rr4
-  password: password1
+#  username: rr4
+#  password: password1
